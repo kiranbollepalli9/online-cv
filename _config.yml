@@ -15,10 +15,11 @@ name: Kiran Bollepalli
 tagline: Mobile Application Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I am 8 years experienced passionate mobile application developer.
-I have solid backgound in creating complex and scalable mobile appps in android.
-I have experience in using modern architecural patterns like MVP, MVVM and using third party libraries 
-like Daggar2, RxJava, Retrofit, Glide, ButterKnife, Firebase, Algolia, Calligraphy Google Play Services.
+I have solid backgound in creating complex and scalable mobile appps in android using architectural patterns like MVP, MVVM and
+using third party libraries like Daggar2, RxJava, Retrofit, Glide, ButterKnife, Firebase, Algolia, Calligraphy Google Play Services.
 I have working experience other technologies like Ionic, React Native, IOS development using Swift.
+I have experience in using Junit, Mockito, Espresso for testing,
+Git & Perforce for version control, Fabric, Test Flight for Beta testing, JIRA & Github for bug tracking.
 '
 
 #sidebar links
