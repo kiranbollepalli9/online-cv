@@ -14,11 +14,11 @@ style: styles-3
 name: Kiran Bollepalli
 tagline: Mobile Application Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am 8 years experienced Mobile application developer. 
-I have a solid background in creating complex mobile applications for Android.
-I can work independently and respect a deadline.
-I feel comfortable working with a good team of developers.
- I am passionate about the mobile marketing and have knowledge about.
+summary: 'I am 8 years experienced passionate mobile application developer.
+I have solid backgound in creating complex and scalable mobile appps in android.
+I have experience in using modern architecural patterns like MVP, MVVM and using third party libraries 
+like Daggar2, RxJava, Retrofit, Glide, ButterKnife, Firebase, Algolia, Calligraphy Google Play Services.
+I have working experience other technologies like Ionic, React Native, IOS development using Swift.
 '
 
 #sidebar links
