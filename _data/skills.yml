@@ -1,18 +1,21 @@
 - skill:
   name: Android
-  level: 98%
+  level: 90%
 - skill:
   name: Core Java
-  level: 98%
+  level: 90%
+- skill:
+  name: Firebase
+  level: 80%
 - skill:
   name: Ionic & Angular
-  level: 60%
+  level: 50%
 - skill:
   name: React Native
-  level: 60%
+  level: 50%
 - skill:
   name: Swift & IOS
-  level: 65%
+  level: 50%
 - skill:
-  name: Illustrator & JustInMind
-  level: 70%
+  name: Sketch
+  level: 60%
